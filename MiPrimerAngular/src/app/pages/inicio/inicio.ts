@@ -7,5 +7,8 @@ import { Component } from '@angular/core';
   styleUrl: './inicio.css',
 })
 export class Inicio {
+    Bienvenidos = 'Hola Cesar';
+
+  Estudiantes = ['Cuadernos','Gorras','Gafas']
 
 }
